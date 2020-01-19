@@ -56,7 +56,7 @@ div {
           }
           /* selected link */
           a:active {
-            color:green;
+            color:#11999E;
           }
 /******************class css*****************************/
   .skill-row{
@@ -119,7 +119,7 @@ font-weight: normal ;
        }
    .btn {
      font-family: 'Montserrat', sans-serif;
-     color: #FCFCFC !important;
+     color: #FCFCFC ;
      font-size: 20px;
      text-shadow: 1px 1px 0px #7CACDE;
      box-shadow: 1px 1px 1px #BEE2F9;
@@ -135,7 +135,7 @@ font-weight: normal ;
      background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
    }
    .btn :hover {
-     color: #FAFDFF !important;
+     color: #FAFDFF;
      background: #468CCF;
      background: linear-gradient(top,  #30E3CB,  #2BC4AD);
      background: -ms-linear-gradient(top,  #30E3CB,  #2BC4AD);
